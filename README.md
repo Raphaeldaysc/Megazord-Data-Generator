@@ -16,7 +16,7 @@ Este repositório contém uma poderosa ferramenta de geração de dados para cri
     - Cadeia de Suprimentos
 - Cria tabelas de dimensão e fatos com relacionamentos realistas
 - Número personalizável de linhas para ambos os tipos de tabela
-- Localização em português brasileiro para dados realistas
+- Localização em BR para dados realistas
 - Exporta dados para arquivos CSV
 
 ## Instalação
@@ -24,7 +24,7 @@ Este repositório contém uma poderosa ferramenta de geração de dados para cri
 1. Clone este repositório:
 
 ```bash
-git clone <https://github.com/seuusuario/megazord-data-generator.git>
+git clone <https://github.com/Raphaeldaysc/Megazord-Data-Generator>
 cd megazord-data-generator
 
 ```
