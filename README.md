@@ -120,15 +120,15 @@ As tabelas são vinculadas por um identificador comum (geralmente CPF).
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT com Atribuição - veja o arquivo [LICENSE](https://www.notion.so/LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT com Atribuição - veja o arquivo [LICENSE]([https://opensource.org/license/mit]) para detalhes.
 
 ## Atribuição
 
 Se você usar este código em seu projeto, deve incluir a seguinte atribuição:
 
 ```
-Este projeto usa código do Megazord Data Generator por [Seu Nome].
-GitHub: <https://github.com/seuusuario/megazord-data-generator>
+Este projeto usa código do Megazord Data Generator por Raphael Dias Câmara.
+GitHub: <https://github.com/Raphaeldaysc/Megazord-Data-Generator>
 
 ```
 
